@@ -1,0 +1,6 @@
+**/backend/static/*
+**/backend/instance/*
+**/backend/models/__pycache__/*
+**/backend/__pycache__/*
+**/backend/controllers/__pycache__/*
+**/.env

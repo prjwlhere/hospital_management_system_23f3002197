@@ -1,0 +1,7 @@
+Flask
+werkzeug
+flask_sqlalchemy
+gunicorn
+psycopg2-binary
+Flask-Migrate
+Flask-JWT-Extended
